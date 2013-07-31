@@ -87,7 +87,7 @@
         </message>
         <message>
             <source>A playlist cannot have a blank name.</source>
-            <translation>El nombre  de la lista de reproducción no puede quedar en blanco.</translation>
+            <translation>El nombre de la lista de reproducción no puede quedar en blanco.</translation>
         </message>
         <message>
             <source>Playlist name:</source>
@@ -443,7 +443,7 @@
         </message>
         <message>
             <source>Duplicate Crate</source>
-            <translation type="unfinished">
+            <translation>Duplicar cajón</translation>
             </translation>
         </message>
         <message>
@@ -526,7 +526,7 @@
         </message>
         <message>
             <source>One deck must be stopped to enable Auto-DJ mode.</source>
-            <translation>Un tocador debe ser detenido para habilitar el modo Auto-DJ.</translation>
+            <translation>Un deck debe ser detenido para habilitar el modo Auto-DJ.</translation>
         </message>
         <message>
             <source>Disable Auto DJ</source>
@@ -642,8 +642,7 @@ by analyzing the beats to discard outliers.</source>
         </message>
         <message>
             <source>Re-analyse beats when settings change or beat detection data is outdated</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Reanalizar tempo cuando la configuración cambie o los datos de detección de tempos estén obsoletos</translation>
         </message>
         <message>
             <source>Enable Fast Analysis (For slow computers, may be less accurate)</source>
@@ -822,8 +821,7 @@ by analyzing the beats to discard outliers.</source>
         </message>
         <message>
             <source>BPM tap button</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Botón de pulsado BPM</translation>
         </message>
         <message>
             <source>Adjust beatgrid</source>
@@ -997,8 +995,7 @@ by analyzing the beats to discard outliers.</source>
         </message>
         <message>
             <source>Preview Deck %1</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Previsualizar deck %1</translation>
         </message>
         <message>
             <source>Single deck mode - Toggle vinyl control to next deck</source>
@@ -1160,8 +1157,7 @@ by analyzing the beats to discard outliers.</source>
         </message>
         <message>
             <source>Show/hide the preview deck</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Mostrar/ocultar el anterior deck</translation>
         </message>
         <message>
             <source>Show/hide spinning vinyl widget</source>
@@ -1524,8 +1520,7 @@ by analyzing the beats to discard outliers.</source>
         </message>
         <message>
             <source>Re-queue tracks in Auto DJ</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Volver a poner las pistas en el Auto DJ</translation>
         </message>
         <message>
             <source>Locale</source>
@@ -1582,8 +1577,7 @@ by analyzing the beats to discard outliers.</source>
         </message>
         <message>
             <source>Waveform Display</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Visión de las ondas de audio</translation>
         </message>
         <message>
             <source>Synchronize zoom level across all waveform displays.</source>
@@ -2959,8 +2953,7 @@ También se generarán las formas de onda como parte del análisis.</translation
         <name>HSVWaveformWidget</name>
         <message>
             <source>HSV</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>HSV</translation>
         </message>
     </context>
     <context>
@@ -3225,8 +3218,7 @@ También se generarán las formas de onda como parte del análisis.</translation
         </message>
         <message>
             <source>Show Samplers</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Ver samplers</translation>
         </message>
         <message>
             <source>Ctrl+1</source>
@@ -3476,8 +3468,7 @@ También se generarán las formas de onda como parte del análisis.</translation
         </message>
         <message>
             <source>Show the sample deck section of the Mixxx interface.</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Ver la sección de la muestra del deck en la interfaz de Mixxx</translation>
         </message>
         <message>
             <source>Show the vinyl control section of the Mixxx interface.</source>
@@ -3873,8 +3864,7 @@ Por favor seleccione su(s) placa de sonido en las preferencias de hardware de so
         </message>
         <message>
             <source>Scroll-wheel</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Rueda de scroll</translation>
         </message>
         <message>
             <source>Waveform Overview</source>
@@ -3906,8 +3896,7 @@ Por favor seleccione su(s) placa de sonido en las preferencias de hardware de so
         </message>
         <message>
             <source>Scroll to change the waveform zoom level.</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Haz scroll para cambiar el nivel de la onda</translation>
         </message>
         <message>
             <source>Spinning Vinyl</source>
@@ -4076,8 +4065,7 @@ Por favor seleccione su(s) placa de sonido en las preferencias de hardware de so
         </message>
         <message>
             <source>Hold-to-talk or short click for latching to</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Deja pulsado para hablar o haz un click corto para bloquearlo</translation>
         </message>
         <message>
             <source>mix microphone input into the master output.</source>
@@ -4339,8 +4327,7 @@ Por favor seleccione su(s) placa de sonido en las preferencias de hardware de so
         </message>
         <message>
             <source>Turns the current loop off.</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Apaga el loop actual</translation>
         </message>
         <message>
             <source>Slip Mode</source>
@@ -4416,8 +4403,7 @@ Por favor seleccione su(s) placa de sonido en las preferencias de hardware de so
         </message>
         <message>
             <source>Synchronize</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Sincronizar</translation>
         </message>
         <message>
             <source>Syncs the tempo (BPM) and phase to that of the other track, </source>
@@ -4831,8 +4817,7 @@ Clickee OK para salir.</translation>
         </message>
         <message>
             <source>Load to Preview Deck</source>
-            <translation type="unfinished">
-            </translation>
+            <translation>Cargar al deck de previsualización</translation>
         </message>
         <message>
             <source>Reset Play Count</source>
